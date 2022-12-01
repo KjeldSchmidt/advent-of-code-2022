@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+bin/
+.idea/
+lib/
+share/
+.DS_Store
+
+*-input*.txt
+
+advent-of-code.iml
+pyvenv.cfg
